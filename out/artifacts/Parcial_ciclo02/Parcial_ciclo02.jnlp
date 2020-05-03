@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Parcial_ciclo02.jnlp">
+  <information>
+    <title>Parcial_ciclo02</title>
+    <vendor>Unknown</vendor>
+    <description>Parcial_ciclo02</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="AnimateFX-1.2.1.jar" size="94267" download="eager" />
+    <jar href="Parcial_ciclo02.jar" size="11937" download="eager" />
+    <jar href="gembox-spreadsheet.jar" size="11605746" download="eager" />
+    <jar href="libs\gembox-spreadsheet.jar" size="11605746" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="sample.Main"  name="Parcial_ciclo02" />
+  <update check="background"/>
+</jnlp>
